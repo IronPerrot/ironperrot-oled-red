@@ -1681,7 +1681,7 @@
       }
     },
     {
-      "name": "heading 6, number",
+      "name": "heading 6,",
       "scope": [
         "invalid.xi"
       ],
@@ -2098,5 +2098,7 @@
     "editorGutter.commentRangeForeground": "#c5c5c5",
     "debugExceptionWidget.background": "#000000",
     "debugExceptionWidget.border": "#ffffff",
+		"editorMultiCursor.primary.foreground":"#ff0000",
+    "editorMultiCursor.secondary.foreground":"#ff9900",
   }
 }

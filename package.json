@@ -3,6 +3,7 @@
   "displayName": "IronPerrot oled red",
   "description": "Red oled theme",
   "version": "0.0.1",
+  "publisher": "IronPerrot",
   "engines": {
     "vscode": "^1.110.0"
   },
