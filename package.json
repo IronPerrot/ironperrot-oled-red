@@ -1,0 +1,21 @@
+{
+  "name": "ironperrot-oled-red",
+  "displayName": "IronPerrot oled red",
+  "description": "Red oled theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "IronPerrot oled red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/IronPerrot oled red-color-theme.json"
+      }
+    ]
+  }
+}
