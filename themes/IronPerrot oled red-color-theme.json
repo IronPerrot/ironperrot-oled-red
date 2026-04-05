@@ -2102,5 +2102,11 @@
     "debugExceptionWidget.border": "#ffffff",
 		"editorMultiCursor.primary.foreground":"#ff0000",
     "editorMultiCursor.secondary.foreground":"#ff9900",
+    "editorBracketHighlight.foreground1":"#ff0000",
+    "editorBracketHighlight.foreground2":"#ffff00",
+    "editorBracketHighlight.foreground3":"#00ff00",
+    "editorBracketHighlight.foreground4":"#00ffff",
+    "editorBracketHighlight.foreground5":"#0000ff",
+    "editorBracketHighlight.unexpectedBracket.foreground":"#ff00ff",
   }
 }
