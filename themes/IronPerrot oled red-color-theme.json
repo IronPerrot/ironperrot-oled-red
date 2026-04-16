@@ -1,9 +1,6 @@
 {
   "name": "IronPerrot Oled",
   "type": "dark",
-  "engines": {
-    "vscode": "^1.40.0"
-  },
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {

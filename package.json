@@ -2,6 +2,7 @@
   "name": "ironperrot-oled-red",
   "displayName": "IronPerrot oled red",
   "description": "Red oled theme",
+  "icon": "icon.png",
   "version": "1.1.1",
   "publisher": "IronPerrot",
   "repository": {
@@ -9,7 +10,7 @@
     "url": "https://github.com/IronPerrot/ironperrot-oled-red"
   },
   "engines": {
-    "vscode": "^1.110.0"
+    "vscode": "^1.60.0"
   },
   "keywords": [
     "theme",
