@@ -7,10 +7,10 @@
       "foreground": "#00e3ff"
     },
     "variable.constant": {
-      "foreground": "#ff7c00"
+      "foreground": "#ffdf00"
     },
     "variable.defaultLibrary": {
-      "foreground": "#ffa600"
+      "foreground": "#ffdf00"
     }
   },
   "tokenColors": [
